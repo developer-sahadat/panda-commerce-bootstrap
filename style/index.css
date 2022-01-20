@@ -1,0 +1,15 @@
+.banner-bg-color {
+    background: #FCEAE8;
+}
+
+.banner-color {
+    color: rgb(29, 29, 49);
+}
+
+.banner-btn {
+    background-color: #FF4891;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+    color: white;
+}
