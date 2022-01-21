@@ -1,10 +1,5 @@
-.banner-bg-color {
-    background: #FCEAE8;
-}
+/*____________________ Common Style ________________________*/
 
-.banner-color {
-    color: rgb(29, 29, 49);
-}
 
 .banner-btn {
     background-color: #FF4891;
@@ -13,3 +8,40 @@
     border-radius: 20px;
     color: white;
 }
+
+
+/*____________________ Header Section Start Now ________________________*/
+
+.banner-bg-color {
+    background: #FCEAE8;
+}
+
+.banner-color {
+    color: rgb(29, 29, 49);
+}
+
+
+
+/*____________________ Header Section end Now ________________________*/
+
+
+/*____________________ Main Section Start Now ________________________*/
+
+.cat-bg-1 {
+    background-image: linear-gradient(#ECEEF9, #CBCCDF);
+}
+
+.cat-bg-2 {
+    background-image: linear-gradient(#65371cbd, #a68671c2);
+}
+
+.cat-bg-3 {
+    background-image: linear-gradient(#E1106A, #EE5BA1);
+}
+
+/*____________________ Main Section end Now ________________________*/
+
+
+/*____________________ Footer Section Start Now ________________________*/
+
+/*____________________ Footer Section end Now ________________________*/
